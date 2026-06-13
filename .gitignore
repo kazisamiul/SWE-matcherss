@@ -1,0 +1,17 @@
+# Python Virtual Environment
+venv/
+
+# Local database file
+swe_jobs.db
+
+# Portable Git
+mingit/
+
+# Python caching
+__pycache__/
+app/__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
